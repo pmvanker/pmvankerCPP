@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/span_example.dir/std20/span/span_example.cpp.o -o span_example 

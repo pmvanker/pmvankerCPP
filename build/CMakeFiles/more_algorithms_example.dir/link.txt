@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/more_algorithms_example.dir/STL/more_algorithms/more_algorithms_example.cpp.o -o more_algorithms_example 

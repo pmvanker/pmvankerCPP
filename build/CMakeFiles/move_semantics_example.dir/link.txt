@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/move_semantics_example.dir/std11/move_semantics/move_semantics_example.cpp.o -o move_semantics_example 
